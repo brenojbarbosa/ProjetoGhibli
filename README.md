@@ -51,6 +51,6 @@ React-Bootstrap (para modais e alguns elementos visuais)
 
 Como rodar o projeto localmente
 git clone https://github.com/brenojbarbosa/ProjetoGhibli.git
-cd ProjetoGhibli
+cd projectghibli
 npm install
 npm run dev
